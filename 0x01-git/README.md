@@ -1,1 +1,1 @@
-My non empty readme file
+Task 4. Updating this file. Task completed. 
